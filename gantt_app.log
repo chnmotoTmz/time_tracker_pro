@@ -1,0 +1,229 @@
+2025-03-22 05:55:45,953 - gantt_app_tk - ERROR - CSVインポート中にエラーが発生しました: 'GanttChart' object has no attribute 'csv_analyzer'
+2025-03-22 05:59:58,466 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:00:49,013 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:00:59,460 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 06:02:06,710 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:02:24,086 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:02:30,902 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 06:02:31,120 - root - ERROR - CSVインポート中にエラーが発生しました: 'name'
+2025-03-22 06:03:11,763 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:03:28,572 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:03:40,014 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 06:03:40,021 - root - ERROR - CSVインポート中にエラーが発生しました: 'name'
+2025-03-22 06:03:51,309 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:03:57,106 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 06:03:57,114 - root - ERROR - CSVインポート中にエラーが発生しました: 'name'
+2025-03-22 06:04:52,252 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:04:58,827 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 06:04:58,844 - root - ERROR - CSVインポート中にエラーが発生しました: 'start'
+2025-03-22 06:12:25,047 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 06:12:34,565 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 06:12:34,569 - __main__ - ERROR - CSVインポート中にエラーが発生しました: name 'ColumnMappingEditor' is not defined
+2025-03-22 10:11:41,075 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:12:47,356 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:12:54,520 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:12:54,576 - __main__ - ERROR - タスク設定中にエラー: 'GanttChart' object has no attribute 'date_to_x'
+2025-03-22 10:12:54,576 - __main__ - ERROR - CSVインポート中にエラー: 'GanttChart' object has no attribute 'date_to_x'
+2025-03-22 10:13:45,423 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:13:50,998 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:13:51,068 - __main__ - ERROR - タスク設定中にエラー: 'Canvas' object has no attribute 'task_width'
+2025-03-22 10:13:51,069 - __main__ - ERROR - CSVインポート中にエラー: 'Canvas' object has no attribute 'task_width'
+2025-03-22 10:14:29,923 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:14:35,494 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:19:14,245 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:19:20,945 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:19:39,218 - DialogueAgent - ERROR - 対話処理中にエラー: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-03-22 10:20:26,504 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:20:32,311 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:21:01,902 - DialogueAgent - ERROR - 対話処理中にエラー: 404 models/gemini-flash-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-03-22 10:22:46,391 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:22:51,740 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:23:00,487 - DialogueAgent - ERROR - 対話処理中にエラー: 404 models/gemini-flash-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-03-22 10:24:33,779 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:24:38,228 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:24:48,479 - DialogueAgent - ERROR - 対話処理中にエラー: 404 models/gemini-flash-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-03-22 10:25:35,888 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:25:40,946 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:25:58,104 - DialogueAgent - ERROR - 対話処理中にエラー: 404 models/gemini-flash-2.0 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-03-22 10:27:02,677 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:27:08,115 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:27:21,708 - DialogueAgent - ERROR - 対話処理中にエラー: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-03-22 10:28:29,869 - csv_analyzer_ai - INFO - Gemini 1.5 Flashモデルを初期化しました
+2025-03-22 10:28:35,337 - csv_analyzer_ai - INFO - 解析結果: {
+  "column_mapping": {
+    "task_name": "コメント",
+    "start_date": "日付",
+    "end_date": null,
+    "duration": "時間",
+    "progress": null
+  },
+  "date_format": "YYYY-MM-DD",
+  "confidence_score": 0.95
+}
+2025-03-22 10:28:55,197 - DialogueAgent - ERROR - 対話処理中にエラー: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-03-22 10:33:35,024 - DialogueAgent - ERROR - 対話処理中にエラー: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-03-22 10:33:37,100 - TaskAgent - ERROR - タスク情報の抽出に失敗: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:37,425 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:37,654 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:38,332 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:38,702 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:39,240 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:39,572 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:42,344 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:42,572 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:42,788 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:43,040 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:43,270 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:43,485 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:43,728 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
+2025-03-22 10:33:43,978 - DialogueAgent - ERROR - 対話処理中にエラー: 429 Resource has been exhausted (e.g. check quota).
